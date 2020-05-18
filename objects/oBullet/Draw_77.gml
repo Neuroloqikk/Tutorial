@@ -1,4 +1,5 @@
 if (place_meeting(x,y,oWall))
 {
-	//instance_destroy();	
+	//o miguel é gay
+	instance_destroy();	
 }
